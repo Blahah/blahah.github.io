@@ -9,7 +9,7 @@ subtitle: I like plants and code
 
 <!-- ## \`grep 'richard smith' etc/user_attr\` -->
 
-I'm Richard Smith - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.net) at the University of Cambridge.
+I'm Richard Smith - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.com) at the University of Cambridge.
 
 By day, I try to make photosynthesis more efficient. By night, I make software that makes computational biology easier and better. Sometimes I [write about plant science](http://phyta.org), because public understanding of it is polluted beyond belief.
 

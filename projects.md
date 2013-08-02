@@ -13,7 +13,7 @@ subtitle: don't come moaning to me when it breaks
 
 ## General academia
 
-- [hibberdlab.net](hibberdlab.net), the website for my lab.
+- [hibberdlab.net](hibberdlab.com), the website for my lab.
 
 ## Other
 
