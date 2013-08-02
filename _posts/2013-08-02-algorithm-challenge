@@ -1,0 +1,63 @@
+---
+layout: post
+title: "The algorithm challenge"
+description: ""
+date: 2013-08-02 08:56
+category:  data-structures, algorithms, bioinformatics
+tags: [meta]
+---
+{% include JB/setup %}
+
+This year as I get deeper into computational biology I've bumped up against my lack of formal CS training many times. The real killers are data structures and algorithms. I'm fed up with not knowing enough, so I'm fixing it.
+
+From now (2nd Aug 2013) until I complete the list below, I'm going to implement a data structure per day in Ruby. I'll start with basics and abstract structures, and move up to specific variants and finally tackle the complex stuff.
+
+Here's the unordered list, which I will update with links to posts/code as I complete them:
+
+### Structures
+
+- Queue
+- Priority queue
+- Deque
+- Stack
+- Tree
+- Graph
+- Heap
+- Sparse array
+- Matrix
+- Sparse matrix
+- Linked list
+- Trie
+- Binary tree
+- Binary search tree
+- Weight balanced tree
+- Self-balancing binary search tree
+- B-tree
+- Decision tree
+- Treap
+- Suffix array
+- Suffix trie
+- Suffix tree
+- Splay tree
+- Ternary tree
+- Bloom filter
+- Counting bloom filter
+- Count-Min sketch
+- Hash table
+- Directed graph
+- Directed acyclic graph
+- Rope
+- Skip list
+- Zipper
+- Disjoint set
+- Binary heap
+- Fibonacci heap
+- R-tree
+- Huffman tree
+- Merkle tree
+- Min-max heap
+- Work-stealing queue
+- Fenwick tree
+- Lock-free versions of as many of the above as possible (will expand this point when I know what's possible)
+
+See you on the other side!
