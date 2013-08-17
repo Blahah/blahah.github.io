@@ -1,14 +1,13 @@
 ---
 layout: page
 title: stuff I've made
-subtitle: don't come moaning to me when it breaks
 ---
 {% include JB/setup %}
 
 ## Computational biology
 
-- [*chain*](chain), a tool for taming bioinformatic pipelines.
-- [*biopsy*](biopsy), a framework for optimising any bioinformatic software.
+- [*chain*](chain), a tool for taming bioinformatic pipelines (wip).
+- [*biopsy*](biopsy), a framework for optimising any bioinformatic software (wip).
 - *assembly tools*, a collection of scripts I've written for transcriptome analysis.
 
 ## General academia

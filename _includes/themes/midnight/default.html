@@ -36,9 +36,6 @@
         <li class="title"><h3><a href="{{ HOME_PATH }}">blog</a></h1></li>
         <li class="title"><h3><a href="{{ BASE_URL }}/about.html">about</a></h1></li>
         <li class="title"><h3><a href="{{ BASE_URL }}/projects.html">projects</a></h1></li>
-<!--         {% assign pages_list = site.pages %}
-        {% assign group = 'navigation' %}
-        {% include JB/pages_list %} -->
       </nav>
     </div>
 
@@ -48,13 +45,7 @@
         {{ content }}
       </div>
 
-      <footer>
-        <p>&copy; {{ site.author.name }} 2012
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-        </p>
-      </footer>
-
-    </div> <!-- /container -->
+    </div> <!-- /wrapper -->
     {% include JB/analytics %}
   </body>
 </html>
