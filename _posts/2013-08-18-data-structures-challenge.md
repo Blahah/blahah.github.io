@@ -3,7 +3,6 @@ layout: post
 title: "The data structures challenge"
 description: ""
 date: 2013-08-18 12:00
-category:  data-structures, algorithms, bioinformatics
 author: Richard Smith
 author-link: http://blahah.net/about.html
 ---
@@ -23,7 +22,7 @@ The real killer insights of CS are in data structures and algorithms. I've done 
 
 ## The challenge
 
-From now (*Sunday 18th August 2013*) until I complete the list below, I'm going to implement at least one data structure per day (on average). I'll start with basics and abstract structures, and move up to specific variants and finally tackle the complex stuff. I'm not aiming for algorithmic perfection: the implementations won't be optimal first time round. Once I've finished the list, I'll go back and try to improve the implementations.
+From now (Sunday 18th August 2013) until I complete the list below, I'm going to implement at least one data structure per day (on average). I'll start with basics and abstract structures, and move up to specific variants and finally tackle the complex stuff. I'm not aiming for algorithmic perfection: the implementations won't be optimal first time round. Once I've finished the list, I'll go back and try to improve the implementations.
 
 ## The details
 
