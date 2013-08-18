@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : blahah.net
-tagline: "plant transcriptomics && computational biology"
+tagline: "PhD life, plant genomes && computational biology"
 author :
   name : Richard Smith
   email : rds45@cam.ac.uk
   github : blahah
   twitter : blahah404
-  feedburner : feedname
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -81,18 +81,18 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false
+    provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : blahah
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+      appid : 
+      num_posts: 
+      width: 
+      colorscheme: 
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: blahah.net
-subtitle: plant transcriptomics && computational biology
+subtitle: PhD life, plant genomes && computational biology
 ---
 {% include JB/setup %}
 
