@@ -37,7 +37,7 @@ Enough talk: here's the unordered list (cobbled together from Stack Overflow pos
 
 ### Array-like structures
 
-- [Queue](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)
+- [Queue](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/queue.rb)
 - [Priority queue](http://en.wikipedia.org/wiki/Priority_queue)
 - [Deque](http://en.wikipedia.org/wiki/Deque)
 - [Double-ended priority queue](http://en.wikipedia.org/wiki/Double-ended_priority_queue)
