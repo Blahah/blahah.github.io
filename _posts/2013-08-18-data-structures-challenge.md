@@ -28,7 +28,7 @@ From now (Sunday 18th August 2013) until I complete the list below, I'm going to
 
 Because I often don't have spare coding time on a given day, I might stack up my structures on one day (for example, I might do 6 structures on a Sunday to cover the next week). There are 42 structures in the list below, so assuming I don't add more as I go, I'll be finished **on or before September 29th 2013**.
 
-My language of choice is Ruby. There are various reasons, but it boils down to the fact that Ruby is a beautiful, intuitive and expressive language and I can think faster in it than any of the others I know. A decent set of Ruby data structures would also be useful to me on a daily basis, and I haven't found an existine one. Maybe it can help others too - [I'm releasing it as a gem](https://rubygems.org/gems/datastructures). You can [follow developent on Github](https://github.com/Blahah/datastructures).
+My language of choice is Ruby. There are various reasons, but it boils down to the fact that Ruby is a beautiful, intuitive and expressive language and I can think faster in it than any of the others I know. A decent set of Ruby data structures would also be useful to me on a daily basis, and I haven't found an existing one. Maybe it can help others too - [I'm releasing it as a gem](https://rubygems.org/gems/datastructures). You can [follow developent on Github](https://github.com/Blahah/datastructures).
 
 
 ## The structures
@@ -41,7 +41,7 @@ Enough talk: here's the unordered list (cobbled together from Stack Overflow pos
 - [Priority queue](http://en.wikipedia.org/wiki/Priority_queue)
 - [Deque](http://en.wikipedia.org/wiki/Deque)
 - [Double-ended priority queue](http://en.wikipedia.org/wiki/Double-ended_priority_queue)
-- [Stack](http://en.wikipedia.org/wiki/Stack_(data_structure%29)
+- [Stack](http://en.wikipedia.org/wiki/Stack_(data_structure%29) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/stack.rb)
 - [Linked list](http://en.wikipedia.org/wiki/Linked_list)
 - [Work-stealing queue](http://supertech.csail.mit.edu/papers/steal.pdf) (note: PDF link, no wiki article)
 - [Suffix array](http://en.wikipedia.org/wiki/Suffix_array‎)
