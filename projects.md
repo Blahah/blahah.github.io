@@ -18,5 +18,5 @@ These are all works in progress...
 
 ## General academia
 
-- [hibberdlab.net](hibberdlab.com), the website for my lab.
+- [hibberdlab.com](http://hibberdlab.com), the website for my lab.
 
