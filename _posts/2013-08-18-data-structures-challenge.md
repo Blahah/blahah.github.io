@@ -38,11 +38,11 @@ Enough talk: here's the unordered list (cobbled together from Stack Overflow pos
 ### Array-like structures
 
 - [Queue](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/queue.rb)
-- [Priority queue](http://en.wikipedia.org/wiki/Priority_queue)
-- [Deque](http://en.wikipedia.org/wiki/Deque)
-- [Double-ended priority queue](http://en.wikipedia.org/wiki/Double-ended_priority_queue)
+- [Priority queue](http://en.wikipedia.org/wiki/Priority_queue) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/priority_queue.rb)
+- [Deque](http://en.wikipedia.org/wiki/Deque) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/deque.rb)
+- [Double-ended priority queue](http://en.wikipedia.org/wiki/Double-ended_priority_queue) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/priority_deque.rb)
 - [Stack](http://en.wikipedia.org/wiki/Stack_(data_structure%29) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/stack.rb)
-- [Linked list](http://en.wikipedia.org/wiki/Linked_list)
+- [Linked list](http://en.wikipedia.org/wiki/Linked_list) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/linked_list.rb)
 - [Work-stealing queue](http://supertech.csail.mit.edu/papers/steal.pdf) (note: PDF link, no wiki article)
 - [Suffix array](http://en.wikipedia.org/wiki/Suffix_array‎)
 - [Disjoint set](http://en.wikipedia.org/wiki/Disjoint-set_data_structure)
@@ -53,7 +53,7 @@ Enough talk: here's the unordered list (cobbled together from Stack Overflow pos
 
 #### Basic
 
-- [Graph](http://en.wikipedia.org/wiki/Graph_(abstract_data_type%29)
+- [Graph](http://en.wikipedia.org/wiki/Graph_(abstract_data_type%29)  - done (adjacency list form)! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/adjacency_list.rb)
 - [Directed graph](http://en.wikipedia.org/wiki/Directed_graph)
 - [Directed acyclic graph](http://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
@@ -65,7 +65,7 @@ Enough talk: here's the unordered list (cobbled together from Stack Overflow pos
 
 #### Trees
 
-- [Tree](http://en.wikipedia.org/wiki/Tree_(data_structure%29)
+- [Tree](http://en.wikipedia.org/wiki/Tree_(data_structure%29) - done! [Code on Github](https://github.com/Blahah/datastructures/blob/master/lib/datastructures/tree_node.rb)
 - [Trie (radix tree)](http://en.wikipedia.org/wiki/Trie)
 - [Binary tree](http://en.wikipedia.org/wiki/Binary_tree)
 - [Binary search tree](http://en.wikipedia.org/wiki/Binary_search_tree)
