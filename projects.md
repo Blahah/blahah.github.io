@@ -14,7 +14,7 @@ published: true
 
 These are all works in progress...
 
-- [*transrate](github.com/blahah/transrate), a command-line tool and Ruby library for quality analysis of de-novo transcriptome assemblies.
+- [*transrate*](github.com/blahah/transrate), a command-line tool and Ruby library for quality analysis of de-novo transcriptome assemblies.
 - [*chain*](github.com/blahah/chain), a tool for taming bioinformatic pipelines.
 - [*biopsy*](github.com/blahah/biopsy), a framework for optimising any bioinformatic software.
 - [*assemblotron*](github.com/blahah/assemblotron), fast, automated, optimal assembly of transcriptomes using *any* modern assembler.
