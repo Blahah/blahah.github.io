@@ -1,7 +1,9 @@
 ---
 layout: page
-title: stuff I've worked on
+title: "stuff I've worked on"
+published: true
 ---
+
 {% include JB/setup %}
 
 ## Learning
@@ -12,11 +14,12 @@ title: stuff I've worked on
 
 These are all works in progress...
 
-- [*chain*](chain), a tool for taming bioinformatic pipelines.
-- [*biopsy*](biopsy), a framework for optimising any bioinformatic software.
+- [*transrate](github.com/blahah/transrate), a command-line tool and Ruby library for quality analysis of de-novo transcriptome assemblies.
+- [*chain*](github.com/blahah/chain), a tool for taming bioinformatic pipelines.
+- [*biopsy*](github.com/blahah/biopsy), a framework for optimising any bioinformatic software.
+- [*assemblotron*](github.com/blahah/assemblotron), fast, automated, optimal assembly of transcriptomes using *any* modern assembler.
 - Tools for [RNAseq](https://github.com/HibberdLab/rnaseq_tools), [transcriptome assembly](https://github.com/HibberdLab/assemblytools), and [working with NGS data](https://github.com/HibberdLab/seqtools).
 
 ## General academia
 
 - [hibberdlab.com](http://hibberdlab.com), the website for my lab.
-
