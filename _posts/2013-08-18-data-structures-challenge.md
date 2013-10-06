@@ -12,6 +12,8 @@ author-link: http://blahah.net/about.html
 
 To kick start this new blog, I'm setting myself a challenge: implement 42 data structures in 42 days.
 
+***Update: After about 2 weeks of this, my PhD exploded and I found myself totally overwhelmed. I've postponed (or failed!) the datastructures challenge having completed 10 structures and will resume work on the project when my PhD workload calms down again.***
+
 ## The reason
 
 I'm nearing the end of the first year of my PhD. I started 10 months ago as a biologist with a bit of programming experience. A fair description of my current role in the lab is somewhere between a computational biologist and bioinformatician. I'm writing software every day to handle huge amounts of data in short turnaround times, and I have no formal CS training.
