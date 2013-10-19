@@ -23,9 +23,9 @@ First, open up your Terminal app. Then, paste in the commands below and hit ente
 
 **Note: commands in boxes like the one below can be copy-pasted into the terminal to run them. Lines starting with a # are comments, and will do nothing when run.**
 
-```bash
+~~~bash
 \curl -L https://get.rvm.io | bash -s stable --ruby
-```
+~~~
 
 That was easy!
 
@@ -33,15 +33,15 @@ That was easy!
 
 Programs written in ruby can be packaged up in an easy-to-install bundle called a *gem*. There's a great website, [RubyGems](http://rubygems.org), that lists the available gems. To install a gem, you just run:
 
-```bash
+~~~bash
 gem install gemname
-```
+~~~
 
 Transrate is a gem, so to install it we run:
 
-```bash
+~~~bash
 gem install transrate
-```
+~~~
 
 This will install transrate itself along with all the other ruby gems it depends on.
 
@@ -57,18 +57,18 @@ It's useful to have one place where you install new programs. That way, you only
 
 Let's create an `~/apps` directory where we can download program files, and an `~/apps.bin` directory where we'll put links to the executables.
 
-```bash
+~~~bash
 mkdir ~/apps
 cd ~/apps
 mkdir bin
-```
+~~~
 
 Now let's tell the command line where to find our new directory. We do this by making a command to add the location to the path, and then putting that command in a file that gets run each time the terminal opens:
 
-```bash
+~~~bash
 echo "export PATH=$PATH:~/apps/bin" >> ~/.bashrc
 source ~/.bashrc
-```
+~~~
 
 Now if we place a file in `~/apps/bin` and make it executable, we can run it by name from any location.
 
@@ -78,7 +78,7 @@ USEARCH is similar to BLAST, but much, much faster. We use it to align the assem
 
 Go to [the USEARCH website](http://www.drive5.com/usearch/download.html) and register to download the latest version of USEARCH for your operating system. You'll receive an email that contains a link. Run the following commands to install USEARCH, making sure to put the download link you were sent in place of the one I've got here:
 
-```bash
+~~~bash
 # change to the apps directory
 cd ~/apps
 # download the remote file to a local file called 'usearch'
@@ -87,17 +87,17 @@ wget -O usearch http://drive5.com/cgi-bin/upload3.py?license=201310190445061132
 chmod +x usearch
 # create a symbolic link to the file in the bin directory
 ln -s usearch ~/apps/bin/usearch
-```
+~~~
 
 Now, you should be able to run `usearch` in the terminal and see some output like this:
 
-```bash
+~~~bash
 usearch v7.0.1001_i86linux32, 4.0Gb RAM (32.9Gb total), 8 cores
 (C) Copyright 2013 Robert C. Edgar, all rights reserved.
 http://drive5.com
 
 Licensed to: rds45@cam.ac.uk
-```
+~~~
 
 ## Bowtie2
 
@@ -105,7 +105,7 @@ Bowtie 2 is used to align reads to the assembled transcriptome. We'll follow a s
 
 Go to [the download site](http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.1.0/) and locate the latest version for your operating system. Right-click the link and choose 'copy link address'. Now run the following commands in the terminal, substituting the link you just copied for the one I've used if necessary:
 
-```bash
+~~~bash
 # change to the apps directory
 cd ~/apps
 # download the bowtie2 zip to bowtie2.zip
@@ -117,11 +117,11 @@ ln -s bowtie2-2.1.0/bowtie2-build ~/apps/bin/bowtie2-build
 ln -s bowtie2-2.1.0/bowtie2-inspect ~/apps/bin/bowtie2-inspect
 ln -s bowtie2-2.1.0/bowtie2-align ~/apps/bin/bowtie2-align
 ln -s bowtie2-2.1.0/bowtie2 ~/apps/bin/bowtie2
-```
+~~~
 
 Now, you should be able to run `bowtie2 --version` in the terminal and see some output like:
 
-```bash
+~~~bash
 /home/rds45/apps/bowtie2-2.1.0/bowtie2-align version 2.1.0
 64-bit
 Built on do-dmxp-mac.win.ad.jhu.edu
@@ -129,7 +129,7 @@ Tue Feb 26 13:34:02 EST 2013
 Compiler: gcc version 4.1.2 20080704 (Red Hat 4.1.2-54)
 Options: -O3 -m64 -msse2 -funroll-loops -g3
 Sizeof {int, long, long long, void*, size_t, off_t}: {4, 8, 8, 8, 8, 8}
-```
+~~~
 
 ## eXpress
 
@@ -141,7 +141,7 @@ Go to the [eXpress website](http://bio.math.berkeley.edu/eXpress/) and hover ove
 
 Now run the following in the terminal, substituting in your copied link and filename if necessary
 
-```bash
+~~~bash
 # change to apps directory
 cd ~/apps
 # download the tarred, gzipped file
@@ -154,16 +154,16 @@ cd express-1.4.1-linux_x86_64
 chmod +x express
 # symlink to bin
 ln -s express ~/bin/express
-```
+~~~
 
 Now, you should be able to run `express -h` and see some output that starts similar to this:
 
-```bash
+~~~bash
 express v1.4.0
 -----------------------------
 File Usage:  express [options] <target_seqs.fa> <hits.(sam/bam)>
 Piped Usage: bowtie [options] -S <index> <reads.fq> | express [options] <target_seqs.fa>
-```
+~~~
 
 Congratulations! You've installed all the dependencies.
 
@@ -171,7 +171,7 @@ Congratulations! You've installed all the dependencies.
 
 Finally, you can run transrate! To get help in the terminal, run `transrate --help`. You should see:
 
-```bash
+~~~bash
 Transrate v0.0.1a by Richard Smith <rds45@cam.ac.uk>
 
 DESCRIPTION:
@@ -201,6 +201,6 @@ OPTIONS:
      --threads, -t <i>:   number of threads to use (default: 8)
          --version, -v:   Print version and exit
             --help, -h:   Show this message
-```
+~~~
 
 If you need any further help, please [post to the help group](https://groups.google.com/forum/#!forum/transrate-users).
