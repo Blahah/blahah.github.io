@@ -25,7 +25,7 @@ First, open up your Terminal app. Then, paste in the commands below and hit ente
 
 {% highlight bash %}
 \curl -L https://get.rvm.io | bash -s stable --ruby
-```
+{% endhighlight %}
 
 That was easy!
 
@@ -35,13 +35,13 @@ Programs written in ruby can be packaged up in an easy-to-install bundle called 
 
 {% highlight bash %}
 gem install gemname
-```
+{% endhighlight %}
 
 Transrate is a gem, so to install it we run:
 
 {% highlight bash %}
 gem install transrate
-```
+{% endhighlight %}
 
 This will install transrate itself along with all the other ruby gems it depends on.
 
@@ -61,14 +61,14 @@ Let's create an `~/apps` directory where we can download program files, and an `
 mkdir ~/apps
 cd ~/apps
 mkdir bin
-```
+{% endhighlight %}
 
 Now let's tell the command line where to find our new directory. We do this by making a command to add the location to the path, and then putting that command in a file that gets run each time the terminal opens:
 
 {% highlight bash %}
 echo "export PATH=$PATH:~/apps/bin" >> ~/.bashrc
 source ~/.bashrc
-```
+{% endhighlight %}
 
 Now if we place a file in `~/apps/bin` and make it executable, we can run it by name from any location.
 
@@ -87,7 +87,7 @@ wget -O usearch http://drive5.com/cgi-bin/upload3.py?license=201310190445061132
 chmod +x usearch
 # create a symbolic link to the file in the bin directory
 ln -s usearch ~/apps/bin/usearch
-```
+{% endhighlight %}
 
 Now, you should be able to run `usearch` in the terminal and see some output like this:
 
@@ -97,7 +97,7 @@ usearch v7.0.1001_i86linux32, 4.0Gb RAM (32.9Gb total), 8 cores
 http://drive5.com
 
 Licensed to: rds45@cam.ac.uk
-```
+{% endhighlight %}
 
 ## Bowtie2
 
@@ -117,7 +117,7 @@ ln -s bowtie2-2.1.0/bowtie2-build ~/apps/bin/bowtie2-build
 ln -s bowtie2-2.1.0/bowtie2-inspect ~/apps/bin/bowtie2-inspect
 ln -s bowtie2-2.1.0/bowtie2-align ~/apps/bin/bowtie2-align
 ln -s bowtie2-2.1.0/bowtie2 ~/apps/bin/bowtie2
-```
+{% endhighlight %}
 
 Now, you should be able to run `bowtie2 --version` in the terminal and see some output like:
 
@@ -129,7 +129,7 @@ Tue Feb 26 13:34:02 EST 2013
 Compiler: gcc version 4.1.2 20080704 (Red Hat 4.1.2-54)
 Options: -O3 -m64 -msse2 -funroll-loops -g3
 Sizeof {int, long, long long, void*, size_t, off_t}: {4, 8, 8, 8, 8, 8}
-```
+{% endhighlight %}
 
 ## eXpress
 
@@ -154,7 +154,7 @@ cd express-1.4.1-linux_x86_64
 chmod +x express
 # symlink to bin
 ln -s express ~/bin/express
-```
+{% endhighlight %}
 
 Now, you should be able to run `express -h` and see some output that starts similar to this:
 
@@ -163,7 +163,7 @@ express v1.4.0
 -----------------------------
 File Usage:  express [options] <target_seqs.fa> <hits.(sam/bam)>
 Piped Usage: bowtie [options] -S <index> <reads.fq> | express [options] <target_seqs.fa>
-```
+{% endhighlight %}
 
 Congratulations! You've installed all the dependencies.
 
