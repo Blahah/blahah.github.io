@@ -64,6 +64,12 @@ You can check the current path by running:
 echo $PATH
 {% endhighlight %}
 
+You'll get an output like this:
+
+`/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin`
+
+So if you run a command, say `ls`, your shell will first look in `/usr/bin` for an executable file called `ls`, then if it doesn't find one it will look in `/bin`, and so on down the list until it either finds the file or runs out of places to look.
+
 To add to the path, you just replace the current setting with a new one:
 
 {% highlight bash %}
