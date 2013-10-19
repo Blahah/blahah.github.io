@@ -6,7 +6,7 @@ comments: true
 categories: bioinformatics
 published: true
 author: Richard Smith
-author-link: http://blahah.net/about.html
+"author-link": "http://blahah.net/about.html"
 ---
 
 {% include JB/setup %}
@@ -52,11 +52,30 @@ This will install transrate itself along with all the other ruby gems it depends
 
 Three programs, USEARCH, Bowtie 2 and eXpress, are required by transrate.
 
-In order to install them, you need to put the executable program files in a directory on your computer, and then tell the computer where to find them. You do this by adding the location of the files to your PATH. PATH is an [environment variable]() that simply lists the places you have progams installed. When you run the Terminal, it loads the PATH and then any time you run a command, it searches all the directories listed in the PATH for the program whose name you have typed.
+### A note about the PATH
+
+In order to install these programs, you need to put the executable program files in a directory on your computer, and then tell the computer where to find them. You do this by adding the location of the files to your PATH. 
+
+PATH is an [environment variable]() that simply lists the places you have progams installed. When you run the Terminal, it loads the PATH and then any time you run a command, it searches all the directories listed in the PATH for the program whose name you have typed.
+
+You can check the current path by running:
+
+{% highlight bash %}
+echo $PATH
+{% endhighlight %}
+
+To add to the path, you just replace the current setting with a new one:
+
+{% highlight bash %}
+# add a new path to the existing one
+export PATH=$PATH:/a/new/path
+{% endhighlight %}
+
+There's more useful information about the PATH [here](http://linuxtutorial.info/modules.php?name=MContent&pageid=329) and [here](http://www.cyberciti.biz/faq/unix-linux-adding-path/).
 
 ### Creating an installation directory
 
-It's useful to have one place where you install new programs. That way, you only have to add one directory to the PATH, and you always know where to put new things.
+It's useful to have one place where you install new programs. That way, you only have to add a directory to the PATH once, and you always know where to put new things.
 
 Let's create an `~/apps` directory where we can download program files, and an `~/apps.bin` directory where we'll put links to the executables.
 
