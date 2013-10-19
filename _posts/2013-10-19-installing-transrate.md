@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Installing Transrate"
-date: 2013-10-19 12:53
+title: Installing Transrate
+date: "2013-10-19 12:53"
 comments: true
 categories: bioinformatics
+published: true
 ---
+
 {% include JB/setup %}
 
 # Installing Transrate
@@ -24,6 +26,7 @@ First, open up your Terminal app. Then, paste in the commands below and hit ente
 **Note: commands in boxes like the one below can be copy-pasted into the terminal to run them. Lines starting with a # are comments, and will do nothing when run.**
 
 {% highlight bash %}
+# download and run the RVM installation code
 \curl -L https://get.rvm.io | bash -s stable --ruby
 {% endhighlight %}
 
@@ -47,7 +50,7 @@ This will install transrate itself along with all the other ruby gems it depends
 
 ## External dependencies
 
-Three programs, USEARCH, Bowtie2 and eXpress, are required by transrate.
+Three programs, USEARCH, Bowtie 2 and eXpress, are required by transrate.
 
 In order to install them, you need to put the executable program files in a directory on your computer, and then tell the computer where to find them. You do this by adding the location of the files to your PATH. PATH is an [environment variable]() that simply lists the places you have progams installed. When you run the Terminal, it loads the PATH and then any time you run a command, it searches all the directories listed in the PATH for the program whose name you have typed.
 
@@ -74,7 +77,7 @@ Now if we place a file in `~/apps/bin` and make it executable, we can run it by 
 
 ## USEARCH
 
-USEARCH is similar to BLAST, but much, much faster. We use it to align the assembled contigs with proteins from a reference species.
+[USEARCH ](http://drive5.com/usearch/) is similar to [BLAST](http://en.wikipedia.org/wiki/BLAST), but much, much faster and more versatile. We use it to align the assembled contigs with proteins from a reference species.
 
 Go to [the USEARCH website](http://www.drive5.com/usearch/download.html) and register to download the latest version of USEARCH for your operating system. You'll receive an email that contains a link. Run the following commands to install USEARCH, making sure to put the download link you were sent in place of the one I've got here:
 
@@ -99,9 +102,9 @@ http://drive5.com
 Licensed to: rds45@cam.ac.uk
 {% endhighlight %}
 
-## Bowtie2
+## Bowtie 2
 
-Bowtie 2 is used to align reads to the assembled transcriptome. We'll follow a similar procedure to the one we used for USEARCH.
+[Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) is used to align reads to the assembled transcriptome. We'll follow a similar procedure to the one we used for USEARCH.
 
 Go to [the download site](http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.1.0/) and locate the latest version for your operating system. Right-click the link and choose 'copy link address'. Now run the following commands in the terminal, substituting the link you just copied for the one I've used if necessary:
 
@@ -133,7 +136,7 @@ Sizeof {int, long, long long, void*, size_t, off_t}: {4, 8, 8, 8, 8, 8}
 
 ## eXpress
 
-eXpress is used to estimate how much support each contig has based on the read alignments.
+[eXpress](http://bio.math.berkeley.edu/eXpress/overview.html) is used to estimate how much support each contig has based on the read alignments.
 
 Again, the procedure is similar...
 
@@ -203,4 +206,4 @@ OPTIONS:
             --help, -h:   Show this message
 {% endhighlight %}
 
-If you need any further help, please [post to the help group](https://groups.google.com/forum/#!forum/transrate-users).
+If you need any further help, please [post to the help group](https://groups.google.com/forum/#!forum/transrate-users), or leave a comment below.
