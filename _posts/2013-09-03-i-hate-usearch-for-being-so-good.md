@@ -27,6 +27,8 @@ In fact, if it wasn't for [USEARCH](http://drive5.com/usearch/), a new aligner t
 
 The problem with USEARCH, though, is its license. Only the 32bit version is free, meaning a hard 4GB memory limit. But even worse than that, it's closed source and the method is essentially unpublished ([there's a paper](http://bioinformatics.oxfordjournals.org/content/26/19/2460.full), but the details are scant - certainly missing information that would be required to recreate the software from scratch). I can run my alignments with USEARCH until the cows come home, and I can verify the results by comparison with BLAST results. But for every result I don't verify, I can never be sure it's not done something unexpected. I can't check the source code or the mathematical working of the algorithm, so ultimately I don't trust it.
 
+It's worth mentioning that the author of USEARCH, Robert Edgar, is clearly a skilled computational biologist. He also wrote MUSCLE, the multiple sequence aligner that made CLUSTAL look silly when it arrived. And he's not a publically funded researcher - he's an independent researcher and needs to make a living from selling his software - so I don't think he's has any ethical imperative to disclose the inner workings of the product. But that doesn't make the situation any better for users.
+
 To my knowledge there is nothing that comes close to the speed of USEARCH. The world needs an *open source* aligner with USEARCH's speed and sensitivity.
 
 For now, I'm using USEARCH, but I feel like I'm violating myself by doing so. I hate you USEARCH, for being so damn good and not telling us how.
