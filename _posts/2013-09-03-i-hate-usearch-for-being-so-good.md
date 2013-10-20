@@ -17,9 +17,9 @@ More recently, alternative aligners have risen to prominence in some specific al
 
 <!-- more -->
 
-But in the case of plain old alignment of one or more nucleotide or amino acid sequences against a database of one or more nucleotide or amino acid sequences, BLAST, and to a lesser extent its cousin BLAT, stil dominate. The problem is these programs are SLOW. Really, really slow. And the rate of sequence production is now really, really fast. BLAST can't keep up.
+But in the case of plain old alignment of one or more nucleotide or amino acid sequences against a database of one or more nucleotide or amino acid sequences, BLAST  still dominates. The problem is, BLAST is SLOW. Really, really slow. And the rate at which we generate sequence data is now really, really fast. BLAST can't keep up.
 
-In fact, if it wasn't for [USEARCH](http://drive5.com/usearch/), a new aligner that outpaces BLAST by several orders of magnitude on the mundane alignment tasks it's so famous for, most of the work I've done in the first year of my PhD would not have been possible. Some days I'm aligning several thousand assembled contigs to a reference genome, and repeating the process several thousand times over. With USEARCH that takes hours. With BLAST it takes **weeks or months**.
+In fact, if it wasn't for [USEARCH](http://drive5.com/usearch/), a new aligner that outpaces BLAST by several orders of magnitude on the mundane alignment tasks it's so famous for, most of the work I've done in the first year of my PhD would not have been possible. Some days I'm aligning several thousand assembled contigs to a reference genome, and repeating the process several thousand times over (for example [assemblotron](https://github.com/Blahah/assemblotron) might align millions of fairly long sequences into a reference database into a single run). With USEARCH that takes hours. With BLAST it takes **weeks or months**.
 
 ![Alt text](http://drive5.com/usearch/perf/hist1.gif "USEARCH vs BLAST and MEGABLAST nucleotide alignment speed and sensitvity on the RFAM test set.")
 
