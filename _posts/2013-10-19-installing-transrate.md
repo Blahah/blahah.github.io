@@ -19,11 +19,11 @@ Transrate is written in the Ruby programming language. This makes it fairly easy
 
 ## Installing Ruby
 
-The easiest way to get Ruby installed is to use the RVM (Ruby Version Manager).
+The easiest way to get Ruby installed is to use the [RVM (Ruby Version Manager)](http://rvm.io/).
 
 First, open up your Terminal app. Then, paste in the commands below and hit enter.
 
-**Note: commands in boxes like the one below can be copy-pasted into the terminal to run them. Lines starting with a # are comments, and will do nothing when run.**
+***Note:** commands in boxes like the one below can be copy-pasted into the terminal to run them. Lines starting with a # are comments, and will do nothing when run.*
 
 {% highlight bash %}
 # download and run the RVM installation code
@@ -34,7 +34,7 @@ That was easy!
 
 ## Installing Transrate
 
-Programs written in ruby can be packaged up in an easy-to-install bundle called a *gem*. There's a great website, [RubyGems](http://rubygems.org), that lists the available gems. To install a gem, you just run:
+Programs written in Ruby can be packaged up in an easy-to-install bundle called a **gem**. There's a great website, [RubyGems](http://rubygems.org), that lists the available gems. To install a gem, you just run:
 
 {% highlight bash %}
 gem install gemname
@@ -46,7 +46,7 @@ Transrate is a gem, so to install it we run:
 gem install transrate
 {% endhighlight %}
 
-This will install transrate itself along with all the other ruby gems it depends on.
+This will install transrate itself along with all the other Ruby gems it depends on.
 
 ## External dependencies
 
@@ -56,9 +56,9 @@ Three programs, USEARCH, Bowtie 2 and eXpress, are required by transrate.
 
 In order to install these programs, you need to put the executable program files in a directory on your computer, and then tell the computer where to find them. You do this by adding the location of the files to your PATH. 
 
-PATH is an [environment variable]() that simply lists the places you have progams installed. When you run the Terminal, it loads the PATH and then any time you run a command, it searches all the directories listed in the PATH for the program whose name you have typed.
+PATH is an [environment variable](http://en.wikipedia.org/wiki/Environment_variable) that simply lists the places you have programs installed. When you run the Terminal, it loads the PATH and then any time you run a command, it searches all the directories listed in the PATH for the program whose name you have typed.
 
-You can check the current path by running:
+You can check the current PATH by running:
 
 {% highlight bash %}
 echo $PATH
@@ -68,9 +68,9 @@ You'll get an output like this:
 
 `/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin`
 
-So if you run a command, say `ls`, your shell will first look in `/usr/bin` for an executable file called `ls`, then if it doesn't find one it will look in `/bin`, and so on down the list until it either finds the file or runs out of places to look.
+That's a list of directory locations separated by colons. So if you run a command, say `ls`, your shell will first look in `/usr/bin` for an executable file called `ls`, then if it doesn't find one it will look in `/bin`, and so on down the list until it either finds the file or runs out of places to look.
 
-To add to the path, you just replace the current setting with a new one:
+To add to the PATH, you just replace the current setting with a new one that includes the old one, plus the location you want to add:
 
 {% highlight bash %}
 # add a new path to the existing one
@@ -83,7 +83,7 @@ There's more useful information about the PATH [here](http://linuxtutorial.info/
 
 It's useful to have one place where you install new programs. That way, you only have to add a directory to the PATH once, and you always know where to put new things.
 
-Let's create an `~/apps` directory where we can download program files, and an `~/apps.bin` directory where we'll put links to the executables.
+Let's create an `~/apps` directory where we can download program files, and an `~/apps/bin` directory where we'll put links to the executables.
 
 {% highlight bash %}
 mkdir ~/apps
@@ -98,11 +98,13 @@ echo "export PATH=$PATH:~/apps/bin" >> ~/.bashrc
 source ~/.bashrc
 {% endhighlight %}
 
+By default, the file `.bashrc` in your home directory contains a list of commands that get executed whenever you start a new BASH prompt (by opening a new terminal window).
+
 Now if we place a file in `~/apps/bin` and make it executable, we can run it by name from any location.
 
 ## USEARCH
 
-[USEARCH ](http://drive5.com/usearch/) is similar to [BLAST](http://en.wikipedia.org/wiki/BLAST), but much, much faster and more versatile. We use it to align the assembled contigs with proteins from a reference species.
+[USEARCH ](http://drive5.com/usearch/) is similar to [BLAST](http://en.wikipedia.org/wiki/BLAST), but [much, much faster](http://blahah.net/bioinformatics,/alignment/2013/09/03/i-hate-usearch-for-being-so-good/) and more versatile. We use it to align the assembled contigs with proteins from a reference species.
 
 Go to [the USEARCH website](http://www.drive5.com/usearch/download.html) and register to download the latest version of USEARCH for your operating system. You'll receive an email that contains a link. Run the following commands to install USEARCH, making sure to put the download link you were sent in place of the one I've got here:
 
@@ -110,7 +112,7 @@ Go to [the USEARCH website](http://www.drive5.com/usearch/download.html) and reg
 # change to the apps directory
 cd ~/apps
 # download the remote file to a local file called 'usearch'
-wget -O usearch http://drive5.com/cgi-bin/upload3.py?license=201310190445061132
+curl -o usearch http://drive5.com/cgi-bin/upload3.py?license=201310190445061132
 # make the 'usearch' file executable
 chmod +x usearch
 # create a symbolic link to the file in the bin directory
@@ -137,7 +139,7 @@ Go to [the download site](http://sourceforge.net/projects/bowtie-bio/files/bowti
 # change to the apps directory
 cd ~/apps
 # download the bowtie2 zip to bowtie2.zip
-wget -O bowtie2.zip http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.1.0/bowtie2-2.1.0-linux-x86_64.zip/download
+curl -o bowtie2.zip http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.1.0/bowtie2-2.1.0-linux-x86_64.zip/download
 # extract
 unzip bowtie2.zip
 # symlink all the necessary executables to bin
@@ -173,7 +175,7 @@ Now run the following in the terminal, substituting in your copied link and file
 # change to apps directory
 cd ~/apps
 # download the tarred, gzipped file
-wget http://bio.math.berkeley.edu/eXpress/downloads/express-1.4.1/express-1.4.1-linux_x86_64.tgz
+curl -O http://bio.math.berkeley.edu/eXpress/downloads/express-1.4.1/express-1.4.1-linux_x86_64.tgz
 # extract the contents
 tar xvf express-1.4.1-linux_x86_64.tgz
 # change to the extracted directory
