@@ -23,7 +23,7 @@ The easiest way to get Ruby installed is to use the [RVM (Ruby Version Manager)]
 
 First, open up your Terminal app. Then, paste in the commands below and hit enter.
 
-***Note:** commands in boxes like the one below can be copy-pasted into the terminal to run them. Lines starting with a # are comments, and will do nothing when run.*
+***Note:*** *commands in boxes like the one below can be copy-pasted into the terminal to run them. Lines starting with a # are comments, and will do nothing when run.*
 
 {% highlight bash %}
 # download and run the RVM installation code
