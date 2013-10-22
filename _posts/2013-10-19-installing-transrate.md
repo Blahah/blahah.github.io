@@ -116,7 +116,8 @@ curl -o usearch http://drive5.com/cgi-bin/upload3.py?license=201310190445061132
 # make the 'usearch' file executable
 chmod +x usearch
 # create a symbolic link to the file in the bin directory
-ln -s usearch ~/apps/bin/usearch
+cd ~/apps/bin
+ln -s ~/apps/usearch .
 {% endhighlight %}
 
 Now, you should be able to run `usearch` in the terminal and see some output like this:
@@ -143,7 +144,8 @@ curl -L -o bowtie2.zip http://sourceforge.net/projects/bowtie-bio/files/bowtie2/
 # extract
 unzip bowtie2.zip
 # symlink all the necessary executables to bin
-ln -s bowtie2-2.1.0/bowtie2* ~/apps/bin/
+cd ~/apps/bin
+ln -s ~/apps/bowtie2-2.1.0/bowtie2* .
 {% endhighlight %}
 
 Now, you should be able to run `bowtie2 --version` in the terminal and see some output like:
@@ -180,7 +182,8 @@ cd express-1.4.1-linux_x86_64
 # make the file executable
 chmod +x express
 # symlink to bin
-ln -s express ~/bin/express
+cd ~/apps/bin
+ln -s ~/apps/express*/express .
 {% endhighlight %}
 
 Now, you should be able to run `express -h` and see some output that starts similar to this:
