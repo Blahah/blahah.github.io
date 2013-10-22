@@ -94,7 +94,7 @@ mkdir bin
 Now let's tell the command line where to find our new directory. We do this by making a command to add the location to the path, and then putting that command in a file that gets run each time the terminal opens:
 
 {% highlight bash %}
-echo "export PATH=$PATH:~/apps/bin" >> ~/.bashrc
+echo "export PATH=\$PATH:~/apps/bin" >> ~/.bashrc
 source ~/.bashrc
 {% endhighlight %}
 
