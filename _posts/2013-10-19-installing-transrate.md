@@ -139,14 +139,11 @@ Go to [the download site](http://sourceforge.net/projects/bowtie-bio/files/bowti
 # change to the apps directory
 cd ~/apps
 # download the bowtie2 zip to bowtie2.zip
-curl -o bowtie2.zip http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.1.0/bowtie2-2.1.0-linux-x86_64.zip/download
+curl -L -o bowtie2.zip http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.1.0/bowtie2-2.1.0-linux-x86_64.zip/download
 # extract
 unzip bowtie2.zip
 # symlink all the necessary executables to bin
-ln -s bowtie2-2.1.0/bowtie2-build ~/apps/bin/bowtie2-build
-ln -s bowtie2-2.1.0/bowtie2-inspect ~/apps/bin/bowtie2-inspect
-ln -s bowtie2-2.1.0/bowtie2-align ~/apps/bin/bowtie2-align
-ln -s bowtie2-2.1.0/bowtie2 ~/apps/bin/bowtie2
+ln -s bowtie2-2.1.0/bowtie2* ~/apps/bin/
 {% endhighlight %}
 
 Now, you should be able to run `bowtie2 --version` in the terminal and see some output like:
