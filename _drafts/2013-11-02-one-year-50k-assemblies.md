@@ -51,3 +51,93 @@ I hope this document will serve as a community resource, and I very much welcome
  3. automate your experiment with a self-optimising pipeline
 
  In the next few sections I'll help with points 1 and 2. I'm still working on point 3, but what I've got so far is quite useful, so I'll discuss that at the end.
+ 
+ ## 2. Pre-processing
+ 
+ Raw reads from a sequencing machine are messy data. As the old IT adage - Garbage In Garbage Out - suggests, they need cleaning up before you can put them through the assembly process. 
+ 
+ ### Trimming
+ 
+ adapters
+ quality
+ 
+ figure: before and after trimming, time and quality
+ 
+ ### Filtering
+ 
+ contamination (species/genus)
+ rRNA
+ 
+ figure: before and after filtering, time and quality
+ 
+ ### Error correction
+ 
+ ALLPATHS-LG errorCorrectReads.pl
+ SEECER
+ SoapDenovo Correction Tool
+ 
+ figure: rice oases allpaths vs seecer, time and quality
+ 
+ ### Coverage normalization
+ 
+ khmer normalize-by-median, filter-abund
+ 
+ figure: with/without khmer, time, quality metrics
+ 
+ ## 3. Assembly
+ 
+ ### Approaches
+ 
+ overlap layout consensus
+ de-brujn
+ string graph
+ rectangle graph
+ 
+ ### Tools
+ 
+ Velvet-Oases
+ SOAPDenovo-Trans
+ TransAbyss
+ Trinity
+ SGA
+ ReadJoiner
+ SPADES
+ 
+ ## 4. Post-processing
+ 
+### Clustering
+
+CD-HIT-EST
+UCLUST
+
+### Scaffolding
+
+SSPACE
+GapFiller
+SGA
+GapCloser for SOAPDenovo
+Easy scripts
+
+### Reassembly
+
+cap3
+ReadJoiner
+
+### Annotation
+
+BLAST/USEARCH
+PFAM
+reciprocal best BLAST
+conditional BLAST
+
+### Cycling
+
+### Chimeras
+
+blastx/usearch
+read evidence
+
+### Filtering
+
+Support Vector Machines
+Random Forests
