@@ -15,6 +15,7 @@ I hope this document will serve as a community resource, and I very much welcome
 1. Workflow and pipelines
 2. Pre-processing
  - trimming
+ - filtering
  - error correction
  - coverage normalisation
 3. Assembly
@@ -44,9 +45,9 @@ I hope this document will serve as a community resource, and I very much welcome
  There are a lot of steps that need to be completed to get a high-quality assembly. For each step there are many competing software applications, and each application has a large array of parameters that often need to be optimised to the task. The best program to use at each step, and the best settings to use for each program, vary widely depending on the species you're sequencing and what you want to do with the transcriptome. Put that all together, and there are hundreds of millions of possible assembly protocols.
  
  Despite this quagmire, we can carve out some rational approaches to assembly. The key things are:
- 
+
  1. understand the purpose and implications of each step in the process
  2. carefully choose how to measure assembly quality
  3. automate your experiment with a self-optimising pipeline
- 
+
  In the next few sections I'll help with points 1 and 2. I'm still working on point 3, but what I've got so far is quite useful, so I'll discuss that at the end.
