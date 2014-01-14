@@ -8,7 +8,7 @@ published: true
 
 ## Open science
 
-- [Solvers.io](http://solvers.io), a place where programmers can find meaningful projects to donate their skills to. Co-founder with [Dave Clayton](http://dave78.com/).
+- [Solvers.io](http://solvers.io), a place where programmers donate their skills meaningful science projects in need of help. Co-founder with [Dave Clayton](http://dave78.com/).
 
 ## Learning
 
