@@ -6,6 +6,10 @@ published: true
 
 {% include JB/setup %}
 
+## Open science
+
+- [Solvers.io](http://solvers.io), a place where programmers can find meaningful projects to donate their skills to. Co-founder with [Dave Clayton](http://dave78.com/).
+
 ## Learning
 
 - [AnkiMobile](https://itunes.apple.com/us/app/ankisrs/id373493387?mt=8), the iOS version of the world's best flashcard app, [Anki](http://ankisrs.net/). This consumed me for most of 2012 (and funded my undergrad).
