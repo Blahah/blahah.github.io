@@ -9,7 +9,9 @@ author: Richard Smith
 "author-link": "http://blahah.net/about.html"
 ---
 
-Last night at [Open Research Cambridge](https://twitter.com/OpenResCam), [Jelena Aleksic](https://twitter.com/firegenome) gave a great talk about Open Access. In her closing comments, she floated the idea of an iTunes for scientific papers. 79p is a reasonable price to cover costs of creating, archiving and distributing knowledge. Most people can afford it. Current prices - $32 for one-off access to a Nature paper - are disgusting. Scientists created that knowledge, probably with public funding, then a team of other scientists peer reviewed it without getting paid, and Nature wants to make $32 from imprisoning it on their website? Fuck you, Nature.
+Last night at [Open Research Cambridge](https://twitter.com/OpenResCam), [Jelena Aleksic](https://twitter.com/firegenome) gave a great talk about Open Access. In her closing comments, she floated the idea of an iTunes for scientific papers. Imagine being able to get any scientific paper for 79p. That's a reasonable price to cover costs of creating, archiving and distributing knowledge (given the research is already funded). Most people can afford it.
+
+Current prices - $32 for one-off access to a Nature paper - are disgusting. Scientists created that knowledge, probably with public funding, then a team of other scientists peer reviewed it without getting paid, and Nature wants to make $32 from imprisoning it on their website? Fuck you, Nature.
 
 <!-- more -->
 
