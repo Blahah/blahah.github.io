@@ -1,5 +1,12 @@
 ---
-published: false
+layout: post
+title: "Knowledge sets us free. Let's return the favour"
+date: 2014-02-11 17:15
+comments: true
+categories: science, publishing, open knowledge, freedom
+published: true
+author: Richard Smith
+"author-link": "http://blahah.net/about.html"
 ---
 
 ## Knowledge sets us free. Let's return the favour.
