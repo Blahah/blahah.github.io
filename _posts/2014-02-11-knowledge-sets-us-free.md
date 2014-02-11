@@ -17,7 +17,7 @@ Current prices - $32 for one-off access to a Nature paper - are disgusting. Scie
 
 ### Music shows us how to set knowledge free
 
-If we can possibly bring about a situation where knowledge comes at cost price (~79p), or better - free, at the point of consumption, it's our moral imperative to do so. To do that we have to destroy traditional publishing. No small task. Be we canshould take lessons from how the music industry was transformed.
+If we can possibly bring about a situation where knowledge comes at cost price (~79p), or better - free, at the point of consumption, it's our moral imperative to do so. To do that we have to destroy traditional publishing. No small task. Be we can take lessons from how the music industry was transformed.
 
 Ubiquitous music piracy broke the strangehold traditional record companies had over listening to music. In the late 1990s CDs were £10-20. If you wanted to hear a particular song you had to buy a load of other songs at the same time and wait for them to be delivered to your house on a plastic disk. Then software made it trivially easy to pirate music, and in the last ten years record companies have been forced to change their business models to match the needs of their consumers. Now we can buy any song for pennies, and if someone can't afford it, it's easy to get it free.
 
