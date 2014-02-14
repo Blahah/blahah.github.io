@@ -33,7 +33,7 @@ They fire up the Liberator software and hit a button. Their reference manager da
 
 **2. A student/researcher is browsing a journal's website.**
 
-They are running the Liberator browser plugin that grabs every paper linked from the every page they visit and anonymously sends it to the open respository network.
+They are running the Liberator browser plugin that grabs every paper linked from every page they visit and anonymously sends it to the open respository network.
 
 **3. Anyone wants to read a paper.**
 
