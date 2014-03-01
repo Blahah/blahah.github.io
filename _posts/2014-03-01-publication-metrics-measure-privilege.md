@@ -22,7 +22,7 @@ Being in Cambridge, and being a white male, I'm always trying to be aware of my 
 
 My previous university was the University of the West of England. Nobody considers this a top-tier university. Most researchers there would never even think of sending their work to Nature. If you're not submitting to Nature, you're not going to be in Nature. A vicious cycle.
 
-We are gaming the metrics system, whether we're conscious of it or not. That's just how metrics work - you measure people on something and they will optimise for it. This is famously a problem in software development. We can assess programmers by the number of lines of code they produce. More is better. But of course this incentivises less concise code.
+We are gaming the metrics system, whether we're conscious of it or not. That's just how metrics work - you measure people on something and they will optimise for it. This is a famous problem in software development: We can assess programmers by the number of lines of code they produce. More is better. But of course, this incentivises less concise code.
 
 > "Measuring software productivity by lines of code is like measuring progress on an airplane by how much it weighs."
 > _- Bill Gates_
