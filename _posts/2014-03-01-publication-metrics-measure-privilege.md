@@ -12,7 +12,9 @@ Scientists are evaluated based on publication citations and impact factor. We kn
 
 <!-- more -->
 
-My older or more experienced collaborators need to publish in high-impact journals. I hear this every day. If it's not a Nature paper, it better be Science. Any 'lower' than that and we've failed, it's not even worth writing up. [REF assessments](http://www.ref.ac.uk/) are coming up and they have a secret list of good journals. We need papers in good journals or we've got no chance or progressing in our careers. Notice that we don't need *good papers*, we need them in *good journals*. We have to show **impact**.
+My older or more experienced collaborators need to publish in high-impact journals. I hear this every day. If it's not a Nature paper, it better be Science. Any 'lower' than that and we've failed, it's not even worth writing up. [REF assessments](http://www.ref.ac.uk/) are coming up and they have a secret list of good journals\*. We need papers in good journals or we've got no chance or progressing in our careers. Notice that we don't need *good papers*, we need them in *good journals*. We have to show **impact**.
+
+_\* [Michelle Brook](http://twitter.com/MLBrook), who knows about these things, assures me this isn't true._
 
 Glamour journals like Nature and Science have some of the most overblown papers I've seen anywhere. Unsexy journals like PLOS have interesting and thoughtful papers whose claims match the results. [ArXiv](http://arxiv.org) (not a peer reviewed journal) even more so. This is reflected in the relative retraction rates - [Impact Factor correlates with retractions](http://iai.asm.org/content/79/10/3855.full).
 
