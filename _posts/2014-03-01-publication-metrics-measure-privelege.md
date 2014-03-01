@@ -1,6 +1,18 @@
+---
+layout: post
+title: "How can we measure quality, not privelege?"
+description: ""
+date: 2014-03-01 14:54
+author: Richard Smith
+author-link: http://blahah.net/about.html
+---
+{% include JB/setup %}
+
 ## How can we measure quality, not privelege?
 
 Evaluating scientists based on publication citations and impact factor have been coming under criticism since [at least 15 years ago](http://www.bmj.com/content/314/7079/497.1), and [frequently since then](https://www.zotero.org/groups/impact_factor_problems/items). [Nothing has changed](http://datapub.cdlib.org/2013/05/22/impact-factors/). As a young scientist collaborating on a variety of projects, I've got a bunch of papers in preparation with colleagues. This has made me acutely aware of the poisonous effect the metrics situation has on science.
+
+<!-- more -->
 
 My older or more experienced collaborators, almost without exception, are obsessed with publishing in high-impact journals. If it's not a Nature paper, it better be Science. Any 'lower' than that and we've essentially failed. [REF assessments](http://www.ref.ac.uk/) are coming up, and we need papers in good journals or we've got no chance or progressing in our careers. Notice that we don't need *good papers*, we need them in *good journals*. We have to demonstrate **impact**. Whatever that is.
 
