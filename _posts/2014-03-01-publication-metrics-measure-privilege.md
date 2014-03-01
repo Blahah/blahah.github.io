@@ -40,25 +40,25 @@ I don't. Why should financial privilege be treated differently from the social p
 
 Privilege in general is a problem. Metrics that don't directly measure the quality of the work are perpetuating privilege. I'm not at all convinced that currently popular altmetrics will help solve this.
 
-They should help with other problems. For example, progress should accelerate when we break free from the painfully slow traditional review cycle.
+They should help with other problems. For example, progress should speed up when we break free from the slow traditional review cycle.
 
-Perhaps most importantly, altmetrics diffuse privilege; different people come to hold it. The divisions of privilege might cease to be drawn along gender, race and wealth lines. This is a very good thing - if privilege is something people can earn rather than being born with it, that's a big chunk of the problem dealt with.
+Perhaps most importantly, altmetrics diffuse privilege; different people come to hold it. The divisions of privilege might cease to be drawn along gender, race and wealth lines. This is a very good thing. If privilege is something people can earn rather than being born with it, that's a big chunk of the problem dealt with.
 
 But I'm talking about how we measure the quality of scientists and their outputs. How we make hiring decisions and decide what to read and cite. And for this purpose, 'impact' is a bad fit.
 
 What we need is something that meets these conditions:
 
 - focussed on quality
-- objective
+- as objective as possible
 - difficult or impossible to game
 - enables scientists and hiring committees to judge the work without having to read every single paper
 
-Here's one idea: [automated sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis) across the post-publication review ecosystem. A set of metrics for every publication that measures *how experts feel about it*. Not just the experts we invite to the party, like at [F1000 Prime](http://f1000.com/prime), but openly, across all the places where experts talk about science. Surely that's a better measure of quality than anything we're doing now?
+Here's one idea: [automated sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis) across the post-publication review ecosystem. A set of metrics for every publication that measures *how experts feel about it*. Not just the experts we invite to the party, like at [F1000 Prime](http://f1000.com/prime). In the open, across all the places where experts talk about science. Surely that's a better measure of quality than anything we're doing now?
 
-The basis for this is already in place. [PubPeer](https://pubpeer.com/) and [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/) are crowd-sourcing expert evaluations of science. PubPeer is excellent because they verify the identity of commenters, but keep the comments anonymous. This means young researchers like me can comment honestly with no fear of career reprisals. PubMed Commons takes the alternative route of signed reviews - also valuable for preventing unabated negativity. If we could assess sentiment across many such post-publication peer-review sites, that might be a relatively objective measure of quality.
+The basis for this is already in place. [PubPeer](https://pubpeer.com/) and [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/) are crowd-sourcing expert evaluations of science. PubPeer is excellent because they verify the identity of commenters, but keep the comments anonymous. This means young researchers like me can leave honest comments with no fear of career reprisals. PubMed Commons takes the alternative route of signed reviews. This is also valuable for preventing unabated negativity. Once can imagine many other sites, each different, but each useful in its own way. We could assess sentiment across all these post-publication peer-review sites. That might be close to an objective measure of quality.
 
-This idea has flaws, sure, but I think it's heading in the right direction, because it's *really* hard to game it. You can't control what other people say. Maybe you could try to convince all your colleagues to write glowing reviews - but this could be tackled, for example by giving weightings to reviewers according to their distance from the author in the [collaboration graph](http://en.wikipedia.org/wiki/Collaboration_graph).
+This idea has flaws, sure, but I think it's heading in the right direction, because it's *really* hard to game it. You can't control what other people say. Maybe you could try to convince all your colleagues to write glowing reviews. But we could tackle this, for example by giving weightings to reviewers according to their distance from the author in the [collaboration graph](http://en.wikipedia.org/wiki/Collaboration_graph). And I find it hard to imagine anyone commanding an army of commenters across dozens of sites.
 
-In summary: Privelege is bad, quality is good. Self-promotion not the same as quality. How can we measure quality? Maybe with algorithms that collect expert opinion.
+In summary: Privilege is bad, quality is good. Self-promotion not the same as quality. How can we measure quality? Maybe with algorithms that collect expert opinion.
 
 I'd love to hear what you think in the comments below, or on [Twitter](http://twitter.com/blahah404).
