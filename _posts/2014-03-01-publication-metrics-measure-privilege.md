@@ -1,4 +1,14 @@
-Scientists are evaluated based on publication citations and impact factor. We know this is a bad idea. People raised the issue [at least 15 years ago](http://www.bmj.com/content/314/7079/497.1), and [many times since then](https://www.zotero.org/groups/impact_factor_problems/items). But [Nothing has changed](http://datapub.cdlib.org/2013/05/22/impact-factors/). As a young scientist collaborating on a variety of projects, I've got a bunch of papers in preparation with colleagues. This has made me aware of the poisonous effect the metrics situation has on science.
+----
+-layout: post
+-title: "How can we measure quality, not privelege?"
+-description: ""
+-date: 2014-03-01 14:54
+-author: Richard Smith
+-author-link: http://blahah.net/about.html
+----
+-{% include JB/setup %}
+
+Scientists are evaluated based on publication citations and impact factor. We know this is a bad idea. People raised the issue [at least 15 years ago](http://www.bmj.com/content/314/7079/497.1), and [many times since then](https://www.zotero.org/groups/impact_factor_problems/items). But [nothing has changed](http://datapub.cdlib.org/2013/05/22/impact-factors/). As a young scientist collaborating on a variety of projects, I've got a bunch of papers in preparation with colleagues. This has made me aware of the poisonous effect the metrics situation has on science.
 
 <!-- more -->
 
