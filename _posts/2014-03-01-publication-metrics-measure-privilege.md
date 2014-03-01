@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How can we measure quality, not privelege?"
+title: "How can we measure quality, not privilege?"
 description: ""
 date: 2014-03-01 14:54
 author: Richard Smith
