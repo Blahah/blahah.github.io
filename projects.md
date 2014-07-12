@@ -9,6 +9,10 @@ published: true
 ## Open science
 
 - [Solvers.io](http://solvers.io), a place where programmers improve our world by donating their skills to meaningful science projects in need of help. Co-founder with [Dave Clayton](http://dave78.com/).
+- [ContentMine](http://contentmine.org) ([also on Github](http://github.com/ContentMine)), a Shuttleworth Foundation funded project in which we are building the technology to mine the entire academic literature as it is published every day, and republish un-copyrightable facts to liberate knowledge for all.
+- [*scraperJSON*](http://github.com/ContentMine/scraperJSON), a schema for defining reusable web scrapers as JSON objects.
+- [*thresher*](http://github.com/ContentMine/thresher), a scraperJSON web scraping library for Node.js.
+- [*quickscrape*](http://github.com/ContentMine/quickscrape), a command-line tool for scraperJSON web scraping that uses **thresher** as a backend.
 
 ## Learning
 
