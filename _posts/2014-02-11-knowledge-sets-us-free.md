@@ -5,7 +5,7 @@ date: "2014-02-11 17:15"
 comments: true
 tags: science, publishing, openknowledge, freedom
 published: true
-author: Richard Smith
+author: Richard Smith-Unna
 "author-link": "http://blahah.net/about.html"
 ---
 
