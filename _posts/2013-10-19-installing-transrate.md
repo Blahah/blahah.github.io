@@ -5,11 +5,13 @@ date: "2013-10-19 12:53"
 comments: true
 categories: bioinformatics
 published: true
-author: Richard Smith
+author: Richard Smith-Unna
 "author-link": "http://blahah.net/about.html"
 ---
 
 {% include JB/setup %}
+
+***NOTE...*** Transrate is now *much* easier to install! Just follow the [instructions here](http://hibberdlab.com/transrate).
 
 [Transrate](https://github.com/Blahah/transrate) is a program for analysing the quality of transcriptome assemblies. It's designed for anyone who is doing de-novo assembly of transcriptomes from RNA-Seq data. Recently I've had several requests for help installing transrate from non-expert users. This set of instructions is aimed at helping users new to the linux/unix environment to get up and running.
 
