@@ -10,8 +10,6 @@ author: Richard Smith-Unna
 
 {% include JB/setup %}
 
-<br />
-
 With great delight, I can now announce that for the next 10 months I will be a Mozilla Fellow for Science. This is extremely exciting, not just because I get to focus my energy on open science, but because I will be working with and learning from some seriously impressive people: the [three other fellows](https://www.mozillascience.org/announcing-our-2015-mozilla-fellows-for-science) and the [Mozilla Science Lab team](https://wiki.mozilla.org/ScienceLab). For me this opportunity is a validation that the things I care about are important to others too, and that the strategy I've been using to encourage change is working.
 
 <!-- more -->
