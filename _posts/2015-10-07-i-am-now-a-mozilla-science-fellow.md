@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I am now a Mozilla Science Fellow"
+title: "I am now a Mozilla Fellow for Science"
 date: 2015-10-07 18:15
 comments: true
 published: true
