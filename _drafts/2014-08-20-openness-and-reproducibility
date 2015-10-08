@@ -1,0 +1,27 @@
+Key challenges:
+
+1. Current science career incentives don't promote openness or reproducibility. We need to think about incentives for following best practise. Without that, most scientists simply won't care about these things.
+
+2. Training is poor, mainly because most trainers don't stay current and follow best practise themselves.
+
+3. Glamour publishing and the major for-profit publishers are diametrically opposed to the goals of open science. That entire infrastructure needs to be systematically dismantled.
+
+Who am I:
+
+I am a PhD student in Plant Sciences at Cambridge. I try to set an example in both openness and reproducibility in my daily work. This includes:
+- making all code and formal writing online and open before publication the same day I write it (https://github.com/Blahah/)
+- all analyses and pipelines for papers are open source and reproducible with a single command (e.g. https://github.com/HibberdLab/flaveria_pipeline)
+- the interim reports I produce for collaborators are online: http://rpubs.com/blahah
+- as the first computational student in my lab I've been setting up best-practice workflows for the entire lab, with everything being open, documented and reproducible (some examples at https://github.com/HibberdLab)
+- I raise awareness of these issues with my colleagues, including trying to convince my collaborators and supervisor that it's important (sometimes to their obvious irritation).
+
+Outside my PhD I'm involved in various organisations and projects that are related to openness. I founded http://solvers.io to help scientists collaborate with the public. I'm also the technical lead on scraping and crawling for the ContentMine project (http://contentmine.org) that is mining the entire scientific literature and releasing annotated, uncopyrightable facts.
+
+I'd like to see:
+
+- productive conversations with interested people
+- us setting an example by opening up our discussions to the wider world (e.g. putting results online, having collaborative discussions online or inviting comment from non-attendees during the meeting)
+
+Biography:
+
+I'm a PhD student in Plant Sciences at Cambridge where I work on understanding the genetic regulation of photosynthesis so we can make it more efficient. I'm also a hacker, an openness activist, and I have too many cats.
