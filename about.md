@@ -18,7 +18,7 @@ Day to day, that means analysing next-generation sequencing data and [writing bi
 
 By night I work on opening and liberating science - knowledge should be free in every way, and there are concrete things we can do now to help make it that way.
 
-In the rare moments when I'm not at a computer screen or lab bench, I hang out with my [awesome girlfriend](https://plus.google.com/106549473620813273259/) and our growing collection of kittens.
+In the rare moments when I'm not at a computer screen or lab bench, I hang out with my [awesome <span style="text-decoration: line-through;">girlfriend</span> fiancé](https://twitter.com/treblesteph) and our growing collection of kittens.
 
 Find me on [Github](https://github.com/Blahah), [ResearchGate](https://www.researchgate.net/profile/Richard_Smith13/), [StackExchange](http://stackexchange.com/users/443912/richard-smith), [Twitter](https://twitter.com/blahah404) or [Google+](https://plus.google.com/108642235198565174600).
 
