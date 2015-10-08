@@ -9,9 +9,13 @@ author: Richard Smith-Unna
 "author-link": "http://blahah.net/about.html"
 ---
 
+{% include JB/setup %}
+
+<br />
+
 With great delight, I can now announce that for the next 10 months I will be a Mozilla Fellow for Science. This is extremely exciting, not just because I get to focus my energy on open science, but because I will be working with and learning from some seriously impressive people: the [three other fellows](https://www.mozillascience.org/announcing-our-2015-mozilla-fellows-for-science) and the [Mozilla Science Lab team](https://wiki.mozilla.org/ScienceLab). For me this opportunity is a validation that the things I care about are important to others too, and that the strategy I've been using to encourage change is working.
 
-The fellowship has been carefully thought out by the MSL team, and I'd like to thank them in particular for paying attention to the needs of people with families. They have gone above and beyond with their support. 
+The fellowship has been carefully thought out by the MSL team, and I'd like to thank them in particular for paying attention to the needs of people with families. They have gone above and beyond with their support.
 
 Our son Max was born in July, so the application deadline of mid-August couldn't have been worse timing for me. However, with support and encouragement from my partner Steph and my friends and mentors, I was able to pull together an application I was happy with. I want to thank my supervisor [Julian Hibberd](http://hibberdlab.com/); my colleague and leader of [the ContentMine](http://contentmine.org) project [Peter Murray-Rust](https://twitter.com/petermurrayrust), and my perpetually supportive future boss, ~~Chuck Norris~~ [Titus Brown](https://twitter.com/ctitusbrown) for their advice. They challenged me to make my answers to the application questions go way outside my comfort zone, both in terms of the ambition of my proposed project, and in how much I highlighted my own successes. One memorable piece of advice from Peter was that I should "try not to be too British" - meaning that I should sell myself. I did, and I tried to have fun with it. You can see [my application and notes on Github](https://github.com/Blahah/mozilla_science_fellowship_application).
 
@@ -22,4 +26,3 @@ Officially, the fellowship starts next week. I'll be logging everything I do [on
 That's all for now - I'll be back soon with detailed plans and ideas.
 
 _p.s. Thanks to [Steph Smith-Unna](https://twitter.com/treblesteph) and [Rob Patro](https://twitter.com/nomad421) for feedback on this post._
-
