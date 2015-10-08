@@ -9,21 +9,15 @@ author: Richard Smith-Unna
 "author-link": "http://blahah.net/about.html"
 ---
 
-With great delight, I can announce that for the next 10 months I will be a Mozilla Fellow for Science. This is extremely exciting, not just because I get to focus my energy on open science, but because I will be working with and learning from some seriously impressive people: the [three other fellows](https://www.mozillascience.org/announcing-our-2015-mozilla-fellows-for-science) and the [Mozilla Science Lab team](). 
+With great delight, I can now announce that for the next 10 months I will be a Mozilla Fellow for Science. This is extremely exciting, not just because I get to focus my energy on open science, but because I will be working with and learning from some seriously impressive people: the [three other fellows](https://www.mozillascience.org/announcing-our-2015-mozilla-fellows-for-science) and the [Mozilla Science Lab team](https://wiki.mozilla.org/ScienceLab). For me this opportunity is a validation that the things I care about are important to others too, and that the strategy I've been using to encourage change is working.
 
-For me this opportunity is a validation that the things I care about are important to others too, and that the strategy I've been using to encourage change is working. So, what do I plan to do with my 10 months?
+The fellowship has been carefully thought out by the MSL team, and I'd like to thank them in particular for paying attention to the needs of people with families. They have gone above and beyond with their support. 
 
-### The application process
+The fellowship application deadline was August 14th, which couldn't have been worse timing for me as our son Max was born a month before the deadline. However, I got some support and encouragement from my friends and mentors: my supervisor Julian Hibberd; my colleague and leader of the ContentMine project Peter Murray-Rust, and my perpetually supportive future boss, Titus Brown. With their help, and especially with the support of my partner Steph, I was able to pull together an application that went way outside my comfort zone, both in terms of the ambition of my proposed project, and in how much I highlighted my own successes. One memorable piece of advice from Peter was that I should "try not to be too British" - meaning that I should sell myself. I did, and I tried to have fun with it. You can see [my application and notes on Github](https://github.com/Blahah/mozilla_science_fellowship_application). I think I re-drafted the whole thing about 30 times, mostly in the last 24 hours.
 
-The fellowship application call went out in [TODO: when?], with a deadline of August 14th. That wasn't a long time to prepare, and it couldn't have been worse timing for me as our son Max was born a month before the deadline.
+There were three separate Skype interviews with different people on the MSL team. I prepared for these by researching the people who would be interviewing me. As I read about their skills and achievements I was inspired to think deeply about many aspects of open science. Steph and I then mock-interviewed endlessly about these ideas during some long drives. This meant that during the interviews I was super excited to talk to the team about how my ideas related to theirs, which I think is probably what allowed me to have three of the best interviews I've ever had. I couldn't be more honoured and excited to get to work with MSL. In the next few days I'll add my notes for the interview strategy to my application Github repo - maybe they'll help someone in the future.
 
+Officially, the fellowship starts next week. I'll be logging everything I do [on Github](https://github.com/Blahah/mozilla_science_fellowship). My first task, which I do in preparation for every big change in my life, is to map my knowledge and figure out where I need to focus my learning to optimise for what's to come. In addition to the work I'll be doing on open science, I'm looking forward to working with the other fellows to make this fellowship as effecitve as possible. For example, I'd like to collect resources on how to engineer change at the institutional and societal levels, and for us to record our experiences of trying to put this into action. So, another starting task is to connect with the other fellows about this.
 
-
-
-- what I plant to do
-- - you can follow along
-- 
-
-- why I'm excited about it
-- 
+That's all for now - I'll be back soon with detailed plans and ideas.
 
