@@ -21,3 +21,5 @@ Officially, the fellowship starts next week. I'll be logging everything I do [on
 
 That's all for now - I'll be back soon with detailed plans and ideas.
 
+_p.s. Thanks to Steph Smith-Unna and Rob Patro for feedback on this post._
+
