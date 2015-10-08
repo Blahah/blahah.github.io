@@ -8,7 +8,7 @@ title: I'm blahah
 
 <!-- ## \`grep 'richard smith' etc/user_attr\` -->
 
-I'm Richard Smith-Unna - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.com) at the University of Cambridge.
+I'm Richard Smith-Unna - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.com) at the University of Cambridge. I'm a [Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/) for 2015-16.
 
 Online I go by *blahah* or *blahah404* depending on availability. Yeah, that's an HTTP status code reference.
 
