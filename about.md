@@ -1,14 +1,14 @@
 ---
 layout: page
-title: I'm blahah
+title: Oh hai
 ---
 {% include JB/setup %}
 
 <div style="float: right"><img src="{{ BASE_PATH }}/assets/me.jpg" /></div>
 
-<!-- ## \`grep 'richard smith-unna' etc/user_attr\` -->
+<!-- ## \`grep 'rik smith-unna' etc/user_attr\` -->
 
-I'm Richard Smith-Unna - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.com) at the University of Cambridge. I'm a [Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/) for 2015-16.
+I'm Rik Smith-Unna - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.com) at the University of Cambridge. I'm a [Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/) for 2015-16.
 
 Online I go by *blahah* or *blahah404*.
 
