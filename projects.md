@@ -8,9 +8,16 @@ published: true
 
 ## Open science
 
+### Organisations
+
 - I am a [2015-2016 Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/)
 - [Solvers.io](http://solvers.io), a place where programmers improve our world by donating their skills to meaningful science projects in need of help. Co-founder with [Dave Clayton](http://dave78.com/).
 - [ContentMine](http://contentmine.org) ([also on Github](http://github.com/ContentMine)), a Shuttleworth Foundation funded project in which we are building the technology to mine the entire academic literature as it is published every day, and republish un-copyrightable facts to liberate knowledge for all.
+- [BioJulia](https://github.com/biojulia/bio.jl)
+
+### Software
+
+- [*getpapers*](http://github.com/ContentMine/getpapers), the easiest way to download hundreds, thousands or tens of thousands of scientific articles at once.
 - [*scraperJSON*](http://github.com/ContentMine/scraperJSON), a schema for defining reusable web scrapers as JSON objects.
 - [*thresher*](http://github.com/ContentMine/thresher), a scraperJSON web scraping library for Node.js.
 - [*quickscrape*](http://github.com/ContentMine/quickscrape), a command-line tool for scraperJSON web scraping that uses **thresher** as a backend.
