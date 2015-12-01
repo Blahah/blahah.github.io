@@ -6,17 +6,17 @@ title: I'm blahah
 
 <div style="float: right"><img src="{{ BASE_PATH }}/assets/me.jpg" /></div>
 
-<!-- ## \`grep 'richard smith' etc/user_attr\` -->
+<!-- ## \`grep 'richard smith-unna' etc/user_attr\` -->
 
 I'm Richard Smith-Unna - a biologist, hacker, and PhD student in Plant Sciences in [the Hibberd Lab](http://hibberdlab.com) at the University of Cambridge. I'm a [Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/) for 2015-16.
 
-Online I go by *blahah* or *blahah404* depending on availability. Yeah, that's an HTTP status code reference.
+Online I go by *blahah* or *blahah404*.
+
+I spend most of my energy working on [projects](projects.html) that try to make science more open. Knowledge should be free in every way, and there are concrete things we can do now to help make it that way.
 
 My PhD is about deciphering the genetic basis of a [particularly efficient kind of photosynthesis](http://en.wikipedia.org/wiki/C4_carbon_fixation), so we can work out how to [make crops more productive](http://c4rice.irri.org/) for the poorest people in the world.
 
 Day to day, that means analysing next-generation sequencing data and [writing bioinformatics software](projects.html) to make those analyses more effective.
-
-By night I work on opening and liberating science - knowledge should be free in every way, and there are concrete things we can do now to help make it that way.
 
 In the rare moments when I'm not at a computer screen or lab bench, I hang out with my [awesome <span style="text-decoration: line-through;">girlfriend</span> fiancé](https://twitter.com/treblesteph) and our growing collection of kittens.
 

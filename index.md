@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blahah.net
-subtitle: PhD life, plant genomes && computational biology
+title: rik.smith-unna.com
+subtitle: open science and mistrust of authority
 ---
 {% include JB/setup %}
 
