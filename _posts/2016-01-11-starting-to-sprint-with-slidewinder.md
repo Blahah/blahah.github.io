@@ -22,6 +22,8 @@ Secondly, I've struck up a particularly strong collaboration with my fellow [Joe
 
 ### The sprint model
 
+![MSL logo](https://raw.githubusercontent.com/Blahah/blahah.github.io/master/assets/ScienceLabSticker.png)
+
 **We [Mozilla Science fellows](https://www.mozillascience.org/fellows) have been given an incredible opportunity**, and we're not taking it lightly. The support of MSL allows us to focus completely on whatever we want for 10 months. Incredible.
 
 Two of the fellows, [Christie Bahlai](https://practicaldatamanagement.wordpress.com/) and [Jason Bobe](http://www.jasonbobe.net/projects.html), already have incredibly impressive long-running projects on the go (seriously, go check them out). But for Joey and I, we're relatively new to this (although [Joey's stuff is also mind-blowingly cool](http://jk-lee.com/projects/)). I personally don't yet know which of the many projects I'm involved in will be the most effective use of my time.
