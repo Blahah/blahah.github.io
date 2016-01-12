@@ -16,7 +16,7 @@ My original plan was to spend my fellowship doing a single large project, creati
 
 Firstly, after talking through ideas with the Mozilla Science Lab team, I've decided to focus on something that uses more of my particular skillset. **Software and resources that enable others to do open science will be my focus**.
 
-Secondly, I've struck up a particularly strong collaboration with my fellow Joey Lee. We've spent many late nights agonising (via online chat) about how to most effectively use our fellowship time. We ultimately decided that **we work best by doing short, flexible projects** rather than large monolithic ones. And we found out that **we work particularly well together**. So, along with Joey, I'll be following a sprint model for the next phase of my fellowship (from now until the end of March).
+Secondly, I've struck up a particularly strong collaboration with my fellow [Joey Lee](http://jk-lee.com/). We've spent many late nights agonising (via online chat) about how to most effectively use our fellowship time. We ultimately decided that **we work best by doing short, flexible projects** rather than large monolithic ones. And we found out that **we work particularly well together**. So, along with Joey, I'll be following a sprint model for the next phase of my fellowship (from now until the end of March).
 
 <!-- more -->
 
