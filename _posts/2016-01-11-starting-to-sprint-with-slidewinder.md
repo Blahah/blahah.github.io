@@ -58,7 +58,7 @@ Perhaps these things don't sound like big frustrations - but to me they consume 
 
 We're used to thinking about individual slides as merely parts of a deck - the deck is the thing we share with people. slidewinder flips that. The slide is the thing. It's a bit of text and media bundled together to communicate a message. That's the central dogma of slidewinder.
 
-![slidewinder logo](https://raw.githubusercontent.com/slidewinder/slidewinder/master/assets/logo_wide_logo.png)
+<img src="https://raw.githubusercontent.com/slidewinder/slidewinder/master/assets/logo_wide_logo.png" style="background-color: white;">slidewinder logo</img>
 
 When you think about slides this way, things start to change. You collect slides, and store ways of arranging them in decks. You can share your slide collections with others, and we can collectively create community slide collections. Perhaps some examples will help show the value of this.
 
