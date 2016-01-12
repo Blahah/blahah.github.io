@@ -76,7 +76,8 @@ With the slide as the thing we focus on, slide deck creation gets a lot more pow
 
 When I had the idea last year, I hammered out some code the same night (our newborn son wasn't going to let me sleep anyway).
 
-https://twitter.com/blahah404/status/655269729834291202
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Baby wouldn&#39;t let me sleep so I made a cmdline tool for rapid making &amp; remixing of markdown slide decks: slidewinder <a href="https://t.co/138TcfiBMg">https://t.co/138TcfiBMg</a></p>&mdash; ⓪ Rik Smith-Unna (@blahah404) <a href="https://twitter.com/blahah404/status/655269729834291202">October 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Slidewinder is currently a command-line tool you can use to assemble slides written in markdown into a deck, which is then presented in the browser using Remark.js. It's written in Node.js, which is now my default choice for rapid app development.
 
