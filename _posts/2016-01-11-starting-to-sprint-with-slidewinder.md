@@ -66,7 +66,7 @@ Most people include some basic bibliographic info in every talk - well, with sli
 
 In science we usually acknowledge funders in our talks. That's a slide - with slidewinder you'd start typing `fun`... in the search bar, and your funding acknowledgement slides would pop up.
 
-None of that is revolutionary perhaps. Well, let's say I want to include a slide that has a diagram of a particular science software algorithm. With slidewinder, you'd check the 'use remote collections' box next to the search bar, and start typing out words that describe the image you want. slidewinder would query the Open Access literature to find figures matching your search terms, and present them to you in order of relevance. When you see the one you want, just drag it into your deck.
+Don't think any of that is revolutionary? Well, let's say I want to include a slide that has a diagram of a particular science software algorithm. With slidewinder, you'd check the 'use remote collections' box next to the search bar, and start typing out words that describe the image you want. slidewinder would query the Open Access literature to find figures matching your search terms, and present them to you in order of relevance. When you see the one you want, just drag it into your deck.
 
 Any slide you bring in can be edited, you can create new slides, and you can apply or create styles. But it's the sharing and easy discovery of slides that has been missing until now.
 
