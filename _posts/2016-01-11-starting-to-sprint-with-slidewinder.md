@@ -10,7 +10,7 @@ author: Richard Smith-Unna
 
 {% include JB/setup %}
 
-I've been fairly quiet here since starting my Mozilla Science Fellowship in October last year. But behind the scenes, the other fellows and I have been furiously planning our projects.
+I've been fairly quiet since starting my Mozilla Science Fellowship in October last year. But behind the scenes, the other fellows and I have been furiously planning our projects.
 
 My original plan was to spend my fellowship doing a single large project, creating an open science course at my university. But things have evolved in two main ways:
 
@@ -22,19 +22,19 @@ Secondly, I've struck up a particularly strong collaboration with my fellow [Joe
 
 ### The sprint model
 
-We fellows have been given an incredible opportunity here, and we're not taking it lightly. The support of MSL allows us to focus completely on whatever we want for 10 months. Incredible.
+**We [Mozilla Science fellows](https://www.mozillascience.org/fellows) have been given an incredible opportunity**, and we're not taking it lightly. The support of MSL allows us to focus completely on whatever we want for 10 months. Incredible.
 
-Two of the fellows, Christie and Jason, already have incredibly impressive long-running projects on the go (seriously, go check them out). But for Joey and I, we're relatively new to this. And I personally don't yet know which of the many projects I'm involved in will be the most effective use of my time.
+Two of the fellows, [Christie Bahlai](https://practicaldatamanagement.wordpress.com/) and [Jason Bobe](http://www.jasonbobe.net/projects.html), already have incredibly impressive long-running projects on the go (seriously, go check them out). But for Joey and I, we're relatively new to this (although [Joey's stuff is also mind-blowingly cool](http://jk-lee.com/projects/)). I personally don't yet know which of the many projects I'm involved in will be the most effective use of my time.
 
-I'm going to find out by doing sprints. A sprint, in this context, means that for a set period of time (2 weeks by default) I'll work exclusively on one project. In that time I'll try to push the project as far as I can. Explore where it might go, whether a community could be built around it, and whether I'm really the best person to lead it.
+**I'm going to find out by doing sprints**. A sprint, in this context, means that for a set period of time (2 weeks by default) I'll work exclusively on one project. In that time I'll try to push the project as far as I can. Explore where it might go, whether a community could be built around it, and whether I'm really the best person to lead it.
 
-A sprint project can be a new idea that will be realised for the first time, or it can take an existing project or idea and build on it, trying to achieve some goal. What it absolutely must have is a clear set of goals for the sprint time.
+A sprint project can be a new idea that will be realised for the first time, or it can take an existing project or idea and build on it, trying to achieve some goal. **What it absolutely must have is a clear set of goals** for the sprint time.
 
-I mentioned that Joey and I are in a similar situation. More than that, we developed this sprint idea together, and we're **building collaboration into the system**. Joey and I [each came up with a list of sprint ideas](https://github.com/mozillascience/fellows-class-2015/blob/master/fellowship_sprints.md) (and [will come](https://github.com/Blahah/mozilla_science_fellowship/labels/micro-sprint) up [with more](https://github.com/joeyklee/mozilla_science_fellowship/issues)). We'll each work on our own ideas, but will always reserve **at least 20% of our time to collaborate** on our fellow's sprint. The 20% is a minimum because some of the ideas got ous both excited, and we'll be working on those ones as full collaborations.
+I mentioned that Joey and I are in a similar situation. More than that, we developed this sprint idea together, and we're **building collaboration into the system**. Joey and I [each came up with a list of sprint ideas](https://github.com/mozillascience/fellows-class-2015/blob/master/fellowship_sprints.md) (and [will come](https://github.com/Blahah/mozilla_science_fellowship/labels/micro-sprint) up [with more](https://github.com/joeyklee/mozilla_science_fellowship/issues)). We'll each work on our own ideas, but will always reserve **at least 20% of our time to collaborate** on our fellow's sprint. The 20% is a minimum because some of the ideas got us both excited, and we'll be working on those ones as full collaborations.
 
 ### My first sprint: slidewinder
 
-The uniting theme for my fellowship will be improving access to science. That means making our products and resources easier to use and re-use, and making our communities more inclusive.
+**The uniting theme for my fellowship will be improving access to science**. That means making our products and resources easier to use and re-use, and making our communities more inclusive.
 
 Public speaking is something I enjoy a lot, but creating slide decks is a nightmare. My frustration with this has built up over years, but in the final months of 2015 I was giving more and more talks, and finally I snapped. I set aside all my other work, sat down, and designed what I would really like slide creation to be like.
 
@@ -66,7 +66,9 @@ Most people include some basic bibliographic info in every talk - well, with sli
 
 In science we usually acknowledge funders in our talks. That's a slide - with slidewinder you'd start typing `fun`... in the search bar, and your funding acknowledgement slides would pop up.
 
-None of that is revolutionary perhaps. Well, let's say I want to include a slide that has a diagram of a particular software. With slidewinder, you'd check the 'use remote collections' box next to the search bar, and start typing out words that describe the image you want. Slidwinder would query the open access literature to find figures matching your search terms, and present them to you in order of relevance. When you see the one you want, just drag it into your deck.
+None of that is revolutionary perhaps. Well, let's say I want to include a slide that has a diagram of a particular science software algorithm. With slidewinder, you'd check the 'use remote collections' box next to the search bar, and start typing out words that describe the image you want. slidewinder would query the Open Access literature to find figures matching your search terms, and present them to you in order of relevance. When you see the one you want, just drag it into your deck.
+
+Any slide you bring in can be edited, you can create new slides, and you can apply or create styles. But it's the sharing and easy discovery of slides that has been missing until now.
 
 With the slide as the thing we focus on, slide deck creation gets a lot more powerful.
 
