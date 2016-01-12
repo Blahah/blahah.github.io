@@ -10,10 +10,10 @@ published: true
 
 ### Organisations
 
-- I am a [2015-2016 Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/)
-- [Solvers.io](http://solvers.io), a place where programmers improve our world by donating their skills to meaningful science projects in need of help. Co-founder with [Dave Clayton](http://dave78.com/).
+- I am a [Mozilla Fellow for Science](http://blahah.net/2015/10/07/i-am-now-a-mozilla-science-fellow/)
+- [Solvers.io](http://solvers.io) (now retired), a place where programmers donate their skills to science projects in need of help. Co-founder with [Dave Clayton](http://dave78.com/).
 - [ContentMine](http://contentmine.org) ([also on Github](http://github.com/ContentMine)), a Shuttleworth Foundation funded project in which we are building the technology to mine the entire academic literature as it is published every day, and republish un-copyrightable facts to liberate knowledge for all.
-- [BioJulia](https://github.com/biojulia/bio.jl)
+- [BioJulia](https://github.com/biojulia/bio.jl). A community building bioinformatics tooling for Julia, and holding itself to the highest standards in its work and culture.
 
 ### Software
 
@@ -24,6 +24,7 @@ published: true
 
 ## Learning
 
+- [Command-line bootcamp](/command_line_bootcamp). Learn the UNIX command-line by following an interactive adventure in your browser.
 - [AnkiMobile](https://itunes.apple.com/us/app/ankisrs/id373493387?mt=8), the iOS version of the world's best flashcard app, [Anki](http://ankisrs.net/). This consumed me for most of 2012 (and funded my undergrad).
 
 ## Computational biology

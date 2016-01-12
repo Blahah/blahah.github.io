@@ -72,3 +72,77 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/blahah
 
 ==================================================================
+==================================================================
+https://keybase.io/blahah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rik.smith-unna.com
+  * I am blahah (https://keybase.io/blahah) on keybase.
+  * I have a public key with fingerprint CAB4 0A1C 6299 A1C7 1A80  4FF6 7571 0934 02B0 C4F8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e28b3e3f67bf761299110ba7593dd2a82d63d95320d23176b6eb71087a6796340a",
+            "fingerprint": "cab40a1c6299a1c71a804ff67571093402b0c4f8",
+            "host": "keybase.io",
+            "key_id": "7571093402b0c4f8",
+            "kid": "0101e28b3e3f67bf761299110ba7593dd2a82d63d95320d23176b6eb71087a6796340a",
+            "uid": "ae37e333be342ed8c076be4457442019",
+            "username": "blahah"
+        },
+        "service": {
+            "hostname": "rik.smith-unna.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450198642,
+    "expire_in": 157680000,
+    "prev": "6814ba58e2a94f627e4b095f480816f2d54c86a43893cf56a9fa0ef54dacf127",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMNDAnicrVJtUFRlFF4QIT4aSCMnwawLM9nw4f3+WBRTAqEscyay6YPd9977Xva6
+sLvcvUsqGTXEZAUIo5CEIR850Qw0FJW4ZBNiSFCUQhEZJCaFCMMgEqARvZexf/3s
+/XPmPed5nvOcM+fsnStMQT6enEDat/nsvE9Pe5XH9LQrRcvDRKe8DzPnYXa4HGCW
+DN26xa7KmBnDCZyAJC9SkFJYTlQ4liAFgSBwEXCMQMkyCXhSZilZYCgSl0mK4FiR
+hSJH4DwHWE5gKRoHWCymqI5MqLk01aEjWQmIKE1ILBJDgSMAj9MK6sAgooAopIhL
+tMIjos3pNhjInAjcMF51ohz6WJbt/Qf+f/btWZYDkOIgRVEipGgSyryEIzikaYaj
+aRInBAPohpoDZEOEFrOADdiwA7EYyuWqEjTWasxxu66p9nh3tqrb4jwOB4iXnNmI
+79KculNyZqG6TdddZoOu73MZ+BehaLmtZBFVh4xWiQi5UHOrTgdmJhBS0lVDmqAZ
+5IZnaTIWg3tdqgYtqoFgOJbH0TPawFwkyfIELQKGhyQQaIUlOUiLuMAoNI/zBKuQ
+MkNLPAtoihcoSWFYICgAhwpDy0BSCJLDjNlyHE6jJfIJMpGmW810AN2jQezAmfbn
+/Uw+QSb/lb7GjZmCAsP+vby+x0P/Cn3ilDl//kZNZUdz3vqkufrDw6WntdBp/NXk
+pba/w2cjjs3OmHwbxvMPFq/p2hZSZE24NcblAOmL3oORN6MTAx97MHuRv74xPLHJ
+f532B/9UWGJlT9kz3s7Quvv6a5PksK5erwYT6JlTQ9LdFeUh6zLyHRtS+mKSXhJP
+Nl4Jec50ufuB2tPV9UNlAT4n1gz0nPOWhNSFx1inrth/fqdr/HDzjxlH0qd3ppwZ
+mamd8VyeOv9WX8MHCaR9P9t5rImwry6omg/+KHdH2CO9RY2vFauT52OL385wV6/8
+NbgN35P6QszqO5jj2NaAo+kXxTcnOwd2NGk733BlR7d9afKTWuomu/XBjsFx3fr1
+psWYqJo5300nrxU2ZqTdWGzZHl5YHT2hNbUc+nDU/M0W89zeexr8vQVrB9SMohWd
+e0YrPz/+6Gdz6WnJRbVtBe6fcqurhnxKvroa4T/Suivv3ZePjgq/LES06g1b2rdz
+mR+X9tYv1FkKvn/oJniy2/Nn8rOfphWuX7W5rhRaxfLqkpHC3R1W3+u7Kn4Yu6a+
+wv5+aWq88MKhhfs9UV3eW+8lvD783YZVF4MCjlyqARds/VHS9HxfSn9p4vDYvSe0
+itQ4Ybb1rglv5MjQ0vi2b/sHw96Pia+PKIzbHPxJer6yNbLMPbE7+eFzoL45J3U/
+vXFw0LqW/E256jcVsDRdbvsHXqHHug==
+=8JWo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blahah
+
+==================================================================
